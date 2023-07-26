@@ -1,0 +1,5 @@
+#For all same type of file
+*.log
+
+#for single file 
+error.txt
